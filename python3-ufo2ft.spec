@@ -5,13 +5,13 @@
 Summary:	A bridge between UFOs and FontTools
 Summary(pl.UTF-8):	Pomost między UFO a FontTools
 Name:		python3-ufo2ft
-Version:	2.25.1
-Release:	5
+Version:	3.4.5
+Release:	1
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/ufo2ft/
-Source0:	https://files.pythonhosted.org/packages/source/u/ufo2ft/ufo2ft-%{version}.zip
-# Source0-md5:	5df6eaf6c35247d3e0fbcdf7c68165f4
+Source0:	https://files.pythonhosted.org/packages/source/u/ufo2ft/ufo2ft-%{version}.tar.gz
+# Source0-md5:	2df2fe2c6918dfd93558f5bc7d5c6560
 URL:		https://pypi.org/project/ufo2ft/
 BuildRequires:	python3-modules >= 1:3.7
 BuildRequires:	python3-setuptools
